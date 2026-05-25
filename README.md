@@ -1,8 +1,8 @@
-# MarketMind
+# MarketBrain
 
 An AI-powered multi-agent financial analysis platform for stocks and cryptocurrencies built with LangGraph, Streamlit, and LLM-based reasoning.
 
-MarketMind orchestrates multiple specialized AI agents in parallel to generate market intelligence, risk assessments, sentiment analysis, macroeconomic insights, and final synthesized investment-style summaries.
+MarketBrain orchestrates multiple specialized AI agents in parallel to generate market intelligence, risk assessments, sentiment analysis, macroeconomic insights, and final synthesized investment-style summaries.
 
 ---
 
@@ -66,7 +66,7 @@ MarketMind orchestrates multiple specialized AI agents in parallel to generate m
 ## Project Structure
 
 ```text
-marketmind/
+MarketBrain/
 │
 ├── agents/
 │   ├── __init__.py
@@ -135,8 +135,8 @@ Combines all agent outputs into a final AI-generated market summary and recommen
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/marketmind.git
-cd marketmind
+git clone https://github.com/yourusername/MarketBrain.git
+cd MarketBrain
 ```
 
 ### 2. Create a virtual environment
